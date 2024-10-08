@@ -56,7 +56,7 @@ function Avatar() {
   return (
     <img
       className="avatar"
-      src="/images/musharafaahel-avatar.jpg"
+      src="../public/images/musharafaahel-avatar.jpg"
       alt="avatar"
     />
   );
